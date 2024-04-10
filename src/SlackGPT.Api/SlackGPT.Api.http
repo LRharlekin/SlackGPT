@@ -1,0 +1,6 @@
+@SlackGPT.Api_HostAddress = http://localhost:5094
+
+GET {{SlackGPT.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

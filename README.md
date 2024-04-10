@@ -23,7 +23,7 @@
 
 **Responsibilities**: Data persistence, implementing repositories
 
-- .Persistence (classlib project)
+- .Infrastructure (classlib project)
 
 ### Database
 
